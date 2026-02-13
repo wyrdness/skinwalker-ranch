@@ -1,10 +1,8 @@
 {
-  "category": "LOCATION",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/skinwalker-ranch",
     "maintainers": [
       {
@@ -18,390 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "skinwalker-ranch",
     "name": "Skinwalker Ranch",
-    "aliases": [
-      {
-        "name": "Sherman Ranch",
-        "meaning": "Named after Sherman family owners (1994-1996)"
-      },
-      {
-        "name": "UFO Ranch",
-        "meaning": "Due to alleged UFO activity"
-      }
-    ],
+    "aliases": [],
     "category": "LOCATION",
-    "subcategory": "Paranormal hotspot",
+    "subcategory": "Multi-phenomenon site",
     "tags": [
-      "location",
-      "utah",
-      "ufos",
-      "cattle-mutilation",
-      "poltergeist",
-      "cryptids",
-      "unverified",
-      "commercial",
-      "controversial",
-      "cultural-appropriation"
+      "folklore",
+      "mythology"
     ],
-    "status": "unverified",
+    "status": "documented",
     "description": {
-      "summary": "Utah ranch claiming multiple paranormal phenomena including UFOs, cattle mutilations, poltergeist activity, and cryptids. Commercially exploited and controversial for appropriating Navajo sacred term.",
-      "full": "Skinwalker Ranch is a property in Utah that claims to be the site of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters. The ranch gained attention during the Sherman family's ownership (1994-1996) and was subsequently purchased by billionaire Robert Bigelow's National Institute for Discovery Science (NIDS) from 1996-2004. The property has connections to the Pentagon's AAWSAP (Advanced Aerospace Weapon System Applications Program). Despite claims of intense investigation, no peer-reviewed scientific evidence has been published substantiating the paranormal claims. The ranch is now owned by Adamantium Real Estate and is the subject of a reality TV series. The name 'Skinwalker Ranch' is controversial as it appropriates a sacred Navajo term (skinwalkers are Navajo witches, not related to this ranch). Critics view it as commercial exploitation with little credible evidence, while proponents claim genuine unexplained phenomena occur there."
+      "summary": "Skinwalker Ranch is a property in Utah that claims to be the site of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters.",
+      "full": "Skinwalker Ranch is a property in Utah that claims to be the site of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters. The ranch gained attention during the Sherman family's ownership (1994-1996) and was subsequently purchased by billionaire Robert Bigelow's National Institute for Discovery Science (NIDS) from 1996-2004. The property has connections to the Pentagon's AAWSAP (Advanced Aerospace Weapon System Applications Program). Despite claims of intense investigation, **no peer-reviewed scientific evidence has been published** substantiating the paranormal claims. The ranch is now owned by Adamantium Real Estate and is the subject of a History Channel reality TV series. Critics view it as commercial exploitation with little credible evidence, while proponents claim genuine unexplained phenomena occur there."
     },
     "etymology": {
-      "origin": "Named 'Skinwalker Ranch' appropriating Navajo skinwalker tradition, though unrelated to actual Navajo beliefs",
-      "meaning": "Skinwalker is a Navajo term for a type of harmful witch - appropriated for commercial purposes",
-      "first_use": "1990s-2000s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "LOCATION",
-      "type": "Paranormal hotspot",
-      "subtype": "Multi-phenomenon site",
-      "variant": "Commercial/Research property"
+      "type": "Multi-phenomenon site",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "ufos",
-        "name": "UFOs",
-        "relationship": "reported",
-        "description": "Alleged UFO sightings at location"
-      },
-      {
-        "id": "cattle-mutilation",
-        "name": "Cattle Mutilation",
-        "relationship": "reported",
-        "description": "Alleged unusual cattle deaths"
-      },
-      {
-        "id": "poltergeist",
-        "name": "Poltergeist Activity",
-        "relationship": "reported",
-        "description": "Alleged paranormal disturbances"
-      },
-      {
-        "id": "skinwalkers",
-        "name": "Skinwalkers",
-        "relationship": "name-only",
-        "description": "Name appropriated from Navajo tradition but unconnected"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "location": {
-        "description": "512-acre ranch in Uintah County, Utah",
-        "state": "Utah",
-        "country": "United States",
-        "coordinates": {
-          "latitude": 40.2584,
-          "longitude": -109.8896,
-          "precision": "approximate"
-        }
-      },
-      "features": [
-        {
-          "feature": "Homestead Ridge",
-          "description": "Central mesa on property",
-          "frequency": "permanent"
-        },
-        {
-          "feature": "Private property",
-          "description": "Access restricted to owners and authorized personnel",
-          "frequency": "permanent"
-        }
-      ]
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "reported_phenomena": [
-      {
-        "phenomenon": "UFO sightings",
-        "description": "Various unidentified aerial phenomena claimed",
-        "frequency": "claimed",
-        "evidence_level": "unverified"
-      },
-      {
-        "phenomenon": "Cattle mutilations",
-        "description": "Unusual cattle deaths reported",
-        "frequency": "claimed",
-        "evidence_level": "unverified"
-      },
-      {
-        "phenomenon": "Poltergeist activity",
-        "description": "Objects moving, voices, disturbances claimed",
-        "frequency": "claimed",
-        "evidence_level": "unverified"
-      },
-      {
-        "phenomenon": "Cryptid sightings",
-        "description": "Various creature sightings claimed",
-        "frequency": "claimed",
-        "evidence_level": "unverified"
-      },
-      {
-        "phenomenon": "Orbs and lights",
-        "description": "Mysterious lights reported",
-        "frequency": "claimed",
-        "evidence_level": "unverified"
-      }
-    ]
-  },
-
-  "distribution": {
-    "range": {
-      "description": "Specific location in Uintah County, Utah",
-      "continents": ["North America"],
-      "countries": ["United States"],
-      "regions": ["Utah", "Uintah Basin"]
-    },
-    "location_details": {
-      "name": "Skinwalker Ranch",
-      "location": {
-        "description": "512-acre property near Ballard, Utah",
-        "country": "United States",
-        "region": "Utah",
-        "locality": "Uintah County",
-        "coordinates": {
-          "latitude": 40.2584,
-          "longitude": -109.8896,
-          "precision": "approximate"
-        }
-      },
-      "size": "512 acres (207 hectares)",
-      "notes": "Private property; access restricted"
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
   "history": {
     "origins": {
-      "cultural_roots": "No legitimate connection to Navajo skinwalker tradition despite name",
-      "earliest_accounts": "Claims begin with Sherman family purchase in 1994",
-      "folklore_connections": "Appropriates Navajo term without connection to actual tradition"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1994",
-        "event": "Sherman family purchases ranch",
-        "significance": "Family begins reporting paranormal phenomena",
-        "source": "Media reports, Kelleher & Knapp book"
-      },
-      {
-        "date": "1996",
-        "event": "Robert Bigelow purchases ranch",
-        "significance": "NIDS (National Institute for Discovery Science) begins investigation",
-        "source": "NIDS"
-      },
-      {
-        "date": "1996-2004",
-        "event": "NIDS investigation period",
-        "significance": "Scientific study claimed but no peer-reviewed publications produced",
-        "source": "NIDS reports (not peer-reviewed)"
-      },
-      {
-        "date": "2005",
-        "event": "Hunt for the Skinwalker book published",
-        "significance": "Kelleher and Knapp popularize ranch claims",
-        "source": "Paraview Pocket Books"
-      },
-      {
-        "date": "2008-2016",
-        "event": "Pentagon AAWSAP connection",
-        "significance": "Ranch connected to Advanced Aerospace Weapon System Applications Program",
-        "source": "Government documents"
-      },
-      {
-        "date": "2016",
-        "event": "Adamantium Real Estate purchases ranch",
-        "significance": "Current ownership; increased commercialization",
-        "source": "Public records"
-      },
-      {
-        "date": "2020-present",
-        "event": "The Secret of Skinwalker Ranch TV series",
-        "significance": "History Channel reality show increases commercial profile",
-        "source": "History Channel"
-      }
-    ],
-    "modern_era": "The ranch is currently a commercial enterprise with restricted access, featured in a reality TV series. No peer-reviewed scientific evidence has been published despite decades of claimed investigation."
+    "timeline": []
   },
-
-  "investigations": {
-    "organizations": [
-      {
-        "name": "National Institute for Discovery Science (NIDS)",
-        "period": "1996-2004",
-        "funding": "Robert Bigelow (private)",
-        "outcome": "No peer-reviewed publications; internal reports only",
-        "credibility": "disputed"
-      },
-      {
-        "name": "Bigelow Aerospace Advanced Space Studies (BAASS)",
-        "period": "2008-2016",
-        "funding": "Pentagon AAWSAP contract",
-        "outcome": "No published scientific evidence",
-        "credibility": "disputed"
-      }
-    ],
-    "researchers": [
-      {
-        "name": "Colm Kelleher",
-        "affiliation": "NIDS",
-        "contribution": "Co-author of Hunt for the Skinwalker book",
-        "period": "1996-2004"
-      },
-      {
-        "name": "George Knapp",
-        "affiliation": "Journalist",
-        "contribution": "Co-author and media coverage",
-        "period": "1990s-present"
-      }
-    ]
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
     "physical": [],
-    "photographic": [
-      {
-        "id": "ranch-photos",
-        "type": "photographs",
-        "name": "Various photographs from ranch",
-        "description": "Photos of alleged phenomena",
-        "status": "unverified",
-        "analysis": "No peer-reviewed verification; mostly anecdotal"
-      }
-    ],
-    "video": [
-      {
-        "id": "tv-series-footage",
-        "type": "video",
-        "name": "Reality TV series footage",
-        "description": "Footage from The Secret of Skinwalker Ranch",
-        "status": "entertainment",
-        "analysis": "Reality TV format; not scientific documentation"
-      }
-    ],
+    "photographic": [],
+    "video": [],
     "audio": [],
     "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Paranormal Hotspot",
-        "description": "Location with genuine multiple paranormal phenomena",
-        "proponents": ["NIDS researchers", "Ranch owners"],
-        "evidence_cited": ["Witness accounts", "Claimed investigations"]
-      },
-      {
-        "name": "Portal/Dimensional Gateway",
-        "description": "Location is portal to another dimension or reality",
-        "proponents": ["Some paranormal researchers"],
-        "evidence_cited": ["Multiple phenomenon types", "Speculation"]
-      }
-    ],
+    "paranormal": [],
     "scientific": [],
-    "skeptical": [
-      {
-        "name": "Commercial Exploitation",
-        "description": "Exaggerated or fabricated claims for profit and publicity",
-        "proponents": ["Skeptics", "Critics"],
-        "evidence_cited": ["No peer-reviewed evidence", "Reality TV series", "Book sales", "Restricted access prevents verification"]
-      },
-      {
-        "name": "Misidentification and Exaggeration",
-        "description": "Normal events misinterpreted or exaggerated",
-        "proponents": ["Skeptical investigators"],
-        "evidence_cited": ["Lack of extraordinary evidence", "Confirmation bias", "Anecdotal nature of claims"]
-      },
-      {
-        "name": "Cultural Appropriation",
-        "description": "Inappropriate use of Navajo sacred term for commercial purposes",
-        "proponents": ["Indigenous advocates", "Cultural critics"],
-        "evidence_cited": ["No connection to actual Navajo skinwalker tradition", "Commercial exploitation", "Disrespect to Navajo culture"]
-      }
-    ]
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
       "traditions": [],
       "stories": [],
-      "beliefs": "Claims of connection to Navajo skinwalker tradition are appropriation without legitimate basis."
-    },
-    "indigenous": {
-      "cultures": ["Navajo (Diné)"],
-      "significance": "Name inappropriately appropriates sacred Navajo term",
-      "sensitivity_note": "**CRITICAL**: The name 'Skinwalker Ranch' is cultural appropriation. Navajo skinwalkers (yee naaldlooshii) are a serious matter in Navajo tradition, not entertainment. The ranch has NO legitimate connection to Navajo beliefs.",
-      "respect_guidelines": "Do not conflate this commercial property with legitimate Navajo spiritual traditions. The use of the term 'skinwalker' for this ranch is disrespectful appropriation."
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Hunt for the Skinwalker by Kelleher & Knapp (2005)"
-      ],
-      "film_tv": [
-        "The Secret of Skinwalker Ranch (History Channel, 2020-present)"
-      ],
+      "literature": [],
+      "film_tv": [],
       "games": [],
-      "other": [
-        "Documentaries",
-        "Podcast coverage",
-        "Internet forums"
-      ]
+      "other": []
     }
   },
-
-  "criticism": {
-    "scientific": [
-      "No peer-reviewed publications despite decades of claimed research",
-      "Access restricted, preventing independent verification",
-      "Anecdotal evidence only",
-      "No replicable data",
-      "Claims violate known physics without extraordinary evidence"
-    ],
-    "cultural": [
-      "Appropriation of sacred Navajo term",
-      "No legitimate connection to Navajo tradition",
-      "Commercialization of Indigenous sacred concepts",
-      "Disrespectful to Diné (Navajo) people"
-    ],
-    "commercial": [
-      "Reality TV format undermines scientific credibility",
-      "Profit motive from books, TV, media",
-      "Restricted access prevents verification while making bold claims",
-      "Appearance of scientific investigation without scientific methodology"
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "kelleher-knapp-2005",
-      "type": "book",
-      "title": "Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah",
-      "authors": ["Colm A. Kelleher", "George Knapp"],
-      "publication": "Paraview Pocket Books",
-      "date": "2005",
-      "isbn": "978-1416505211",
-      "note": "Primary source of ranch claims; not peer-reviewed science"
-    },
-    {
-      "id": "skinwalker-ranch-series",
-      "type": "media",
-      "title": "The Secret of Skinwalker Ranch",
-      "publication": "History Channel",
-      "date": "2020-present",
-      "note": "Reality TV series; entertainment not scientific documentation"
-    },
-    {
-      "id": "aawsap-documents",
-      "type": "government",
-      "title": "AAWSAP/AATIP Pentagon Program Documents",
-      "date": "2008-2016",
-      "note": "Government documents showing connection to Pentagon program"
-    }
-  ]
+  "sources": []
 }
